@@ -22,7 +22,9 @@ main {
 footer {
     background-color: blueviolet;
 }
-
+footer a {
+    color: white;
+}
 li {
     display: inline-block;
     width: 30%;
